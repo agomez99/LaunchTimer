@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color:hsl(234, 17%, 12%);
+}
+.container{
+  height: 100vh;
+}
+
+
+main {
+  padding: 1rem;
+  color:white;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+footer{
+  height: 20rem;
+  background-color:hsl(235, 16%, 14%) ;
+  margin-top: auto;
+}
+
+i.fa-brands{
+  color:  hsl(237, 18%, 59%);
+
+}
+.social-media{
+  display: flex;
+  height:100px;
+  justify-content: center;
+}
