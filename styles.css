@@ -9,7 +9,6 @@ body {
   background-color:hsl(234, 17%, 12%);
 }
 .container{
-  height: 100vh;
 }
 
 
@@ -26,7 +25,8 @@ h1 {
 footer{
   height: 20rem;
   background-color:hsl(235, 16%, 14%) ;
-  margin-top: auto;
+  bottom:0px;
+  
 }
 
 i.fa-brands{
